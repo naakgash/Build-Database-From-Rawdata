@@ -73,8 +73,9 @@ CREATE TABLE rawdata(
 
 ---
 
-> **The 'movies_metadata.csv' file is in **csv** folder in github repository.**  
-> **Please use the file in the repository as I edited it so that it can read the file correctly.**
+> **The 'movies_metadata.csv' file is in **csv** folder in github repository.** 
+> **After extracting the .rar compressed file, it should be used as .csv.**
+> **In order for the file to be read correctly, the file in the repository on which I have made improvements should be used.**
 
 ---
 
@@ -102,6 +103,6 @@ CREATE TABLE rawdata(
 
 <div align="left"><p><img src="https://github.com/naakgash/Build-Database-From-Rawdata/blob/main/pics/tables.gif" width="600px">
 
-> **Now we can move on to the API project I created with these tables. The link is below, thanks.**
+> **The API project I created using these tables can be accessed from the link below, thank you.**
 
 > [Arvato-Restful-API](https://github.com/naakgash/Arvato-Restful-API)
